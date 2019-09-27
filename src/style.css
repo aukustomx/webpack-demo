@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('./my-font.otf') format('opentype'), 
+       url('./my-font.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'MyFont';
+  font-size: 54px;
+  background: url('./icon.png');
+}
