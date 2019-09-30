@@ -28,6 +28,7 @@
     "xml-loader": "^1.2.1"
   },
   "dependencies": {
+    "@bbva-web-components/bbva-button-default": "^3.0.1",
     "lodash": "^4.17.15"
   }
 }
